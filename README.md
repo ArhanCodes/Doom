@@ -1,6 +1,4 @@
 # Doom
-Dooom is a self hosted [Zeppelin](https://zeppelin.gg) instance
-
-![Doom Banner](assets/doombanner.png)
+Dooom is a self hosted [Zeppelin](https://zeppelin.gg) instance. DM arhan424 for access
 
 
